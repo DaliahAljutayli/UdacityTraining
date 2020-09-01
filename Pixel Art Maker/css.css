@@ -1,0 +1,42 @@
+﻿body {
+    background-image: url('background.png');
+    width:90%;
+    text-align:center;
+}
+
+h1 {font-size:50px;
+    color: #b2967d;
+    font-family: cursive,fantasy;}
+
+h2 {
+    font-size: 20px;
+    color: #698390;
+    font-family: fantasy;
+}
+
+form {
+    color: #bf9da0;
+}
+
+table {
+    margin: auto;
+    border: 1px solid #cec6c6;
+    color: #698390;
+    border-collapse:collapse;
+}
+
+tr,td {
+    border: 2px solid #e9eef2;
+    width:20px;
+    height:20px;
+}
+
+.grid_Toggle {
+    border: hidden;
+}
+
+p {
+    font-size: 13px;
+    color: #ab7659;
+    font-family: fantasy;
+}
